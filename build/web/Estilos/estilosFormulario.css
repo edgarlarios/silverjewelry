@@ -1,0 +1,53 @@
+/* 
+    Document   : estilosFormulario
+    Created on : 8/10/2012, 12:06:34 AM
+    Author     : User
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+fieldset{
+    width: 700px;
+    height: 800px;
+}
+legend{
+    color:black;
+    font-size: 24px;
+}
+
+textarea{
+   border-color: black; 
+    margin-bottom: 3px;
+    padding:3px;     
+}
+
+textarea:focus{
+    background-color: #FAAC58;
+    border: 3px solid black;
+}
+input{
+    border-color: black; 
+    margin-bottom: 3px;
+    padding:3px;
+}
+
+input:focus{
+    background-color: #FAAC58;
+    border: 2px solid black;
+}
+
+td{
+    color:black;
+    font-size:18px;
+}
+
+select{
+    color:black;
+    font-size:15px;
+    border: 2px solid black;
+}

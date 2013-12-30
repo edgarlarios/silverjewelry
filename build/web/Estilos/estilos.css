@@ -1,0 +1,18 @@
+#principal {
+	height: 600px;
+	background-color: #FFF;
+}
+
+.fondobody {
+	background-repeat: repeat;
+	background-color: #999;
+}
+img {
+	border: 4px solid #000;
+}
+
+.bordeTabla {
+	border: 2px double #000;
+	background-color: #999;
+        text-align: center;
+}
